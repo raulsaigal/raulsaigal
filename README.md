@@ -1,4 +1,4 @@
-<img align="center" alt="img> width = "800" height = "500" src=("C:\Users\HP\Downloads\Rahul.png")>
+![logo](https://github.com/raulsaigal/raulsaigal/blob/main/output-onlinepngtools%20(3).png)
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
