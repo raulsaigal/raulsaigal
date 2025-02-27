@@ -1,6 +1,6 @@
-<img align="center" alt="img> width = "800" height = "500" src="https://github.com/raulsaigal/raulsaigal/blob/main/Rahul.png">
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img align="center" alt="img> width = "800" height = "500" src="https://github.com/raulsaigal/raulsaigal/blob/main/Rahul.png">
 
 <img align= "right" alt="coding" width = "400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **My SQL, MongoDB, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://raulsaigal.github.io/Portfolio_website_part1/](raulsaigal.github.io/Portfolio_website_part1/)
+- 👨‍💻 All of my projects are available at [raulsaigal.github.io/Portfolio_website_part1/](raulsaigal.github.io/Portfolio_website_part1/)
 
 - 💬 Ask me about **HTML, CSS, TAILWIND, JAVASCRPIT, REACT**
 
