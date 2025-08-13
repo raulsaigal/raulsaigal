@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **My SQL, MongoDB, Express.js**
 
-- 👨‍💻 All of my projects are available at [raulsaigal.github.io/Portfolio_website_part1/](https://portfolio-website-part1.vercel.app/)
+- 👨‍💻 All of my projects are available at [raulsaigal.github.io/Portfolio](https://raulsaigal.github.io/My-Portfolio-/)
 
-- 💬 Ask me about **HTML, CSS, TAILWIND, JAVASCRPIT, REACT**
+- 💬 Ask me about **HTML, CSS, TAILWIND, JAVASCRIPT, REACT**
 
 - 📫 How to reach me **rr7426151@gmail.com**
 
